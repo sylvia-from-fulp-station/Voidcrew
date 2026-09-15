@@ -1,14 +1,26 @@
 /**
- * Positronic brain (posibrain) repair.
+ * Positronic brain (posibrain) repair + examine.
  *
  * Posibrains take integrity damage while piloting an open-cage mech
  * (see voidcrew/edits/vehicles/mecha.dm). Give roboticists a way to patch
  * that damage back up with a cable coil or a welding tool, mirroring the
- * repair loops used on other vehicles so the numbers stay familiar.
+ * repair loops used on other vehicles so the numbers stay familiar, and
+ * surface the integrity state on examine like other damaged objects.
  */
 
 /// Integrity restored per repair tick.
 #define VOIDCREW_POSIBRAIN_REPAIR_AMOUNT 10
+
+/obj/item/mmi/posibrain/examine(mob/user)
+	. = ..()
+	var/healthpercent = round((get_integrity()/max_integrity) * 100, 1)
+	switch(healthpercent)
+		if(60 to 95)
+			. += span_info("It looks slightly damaged.")
+		if(25 to 60)
+			. += span_warning("It appears heavily damaged.")
+		if(0 to 25)
+			. += span_boldwarning("It's falling apart!")
 
 /obj/item/mmi/posibrain/welder_act(mob/living/user, obj/item/W)
 	if(user.combat_mode)
