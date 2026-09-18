@@ -53,6 +53,12 @@
 /obj/structure/frame/machine/secured,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
+"uhW" = (
+/obj/machinery/computer/cryopod{
+	pixel_x = 32
+	},
+/turf/open/floor/wood/mahogany,
+/area/template_noop)
 "uAl" = (
 /turf/open/floor/wood/mahogany,
 /area/template_noop)
@@ -109,7 +115,7 @@ lyS
 "}
 (9,1,1) = {"
 uAl
-uAl
+uhW
 uBs
 "}
 (10,1,1) = {"

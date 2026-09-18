@@ -60,6 +60,12 @@
 /obj/modular_map_connector,
 /turf/template_noop,
 /area/template_noop)
+"rVB" = (
+/obj/machinery/computer/cryopod{
+	pixel_x = 32
+	},
+/turf/open/floor/wood/ebony,
+/area/template_noop)
 "xcW" = (
 /obj/structure/closet/crate,
 /obj/structure/closet/crate/secure/weapon,
@@ -113,7 +119,7 @@ luo
 "}
 (9,1,1) = {"
 mbq
-mbq
+rVB
 atF
 "}
 (10,1,1) = {"
