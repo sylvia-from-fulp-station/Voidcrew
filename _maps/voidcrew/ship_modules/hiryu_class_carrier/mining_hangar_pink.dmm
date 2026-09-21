@@ -33,6 +33,9 @@
 /obj/item/pickaxe/rusted,
 /obj/item/pickaxe/rusted,
 /obj/item/pickaxe/rusted,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "kNx" = (

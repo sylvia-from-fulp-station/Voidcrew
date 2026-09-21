@@ -67,7 +67,6 @@
 /turf/open/floor/wood/ebony,
 /area/template_noop)
 "xcW" = (
-/obj/structure/closet/crate,
 /obj/structure/closet/crate/secure/weapon,
 /turf/open/floor/mineral/plastitanium,
 /area/template_noop)

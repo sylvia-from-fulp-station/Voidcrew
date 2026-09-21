@@ -49,6 +49,9 @@
 	name = "Mech Bay Shutters";
 	id = "hiryu_east"
 	},
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "kQt" = (

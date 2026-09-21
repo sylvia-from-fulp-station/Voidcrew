@@ -106,6 +106,9 @@
 	name = "Mech Bay Shutters";
 	id = "hiryu_west"
 	},
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 
