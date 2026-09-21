@@ -6,10 +6,7 @@
 	dir = 1
 	},
 /obj/structure/rack,
-/obj/item/storage/medkit{
-	pixel_x = 1;
-	pixel_y = -3
-	},
+/obj/item/storage/medkit/regular,
 /obj/item/storage/medkit/toxin{
 	pixel_x = 1;
 	pixel_y = 1
@@ -46,10 +43,7 @@
 	},
 /obj/structure/window/reinforced/tinted/frosted/spawner/directional/west,
 /obj/structure/rack,
-/obj/item/storage/medkit{
-	pixel_x = 1;
-	pixel_y = -3
-	},
+/obj/item/storage/medkit/regular,
 /obj/item/storage/medkit/fire{
 	pixel_x = 1;
 	pixel_y = 1
