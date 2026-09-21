@@ -1,0 +1,46 @@
+{
+ "hulls": {},
+ "modules": {
+  "hiryu_class_carrier/captain_s_quarters.dmm": {
+   "connector": [
+    1,
+    1
+   ],
+   "height": 7,
+   "themes": {
+    "pink": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_captain_s_quarters_pink.png",
+     "src_md5": "bd46d8e0b95d548185510d36db5ee510",
+     "width": 4
+    },
+    "standard": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_captain_s_quarters_standard.png",
+     "src_md5": "ff7018feba386bc3c613c19403b0765e",
+     "width": 4
+    },
+    "syndicate": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_captain_s_quarters_syndicate.png",
+     "src_md5": "9349f146de0a892b8feb0863c38c8079",
+     "width": 4
+    }
+   },
+   "width": 4
+  }
+ },
+ "tile_px": 32
+}

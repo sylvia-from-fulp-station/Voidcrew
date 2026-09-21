@@ -1,0 +1,46 @@
+{
+ "hulls": {},
+ "modules": {
+  "hiryu_class_carrier/cargo_bay.dmm": {
+   "connector": [
+    1,
+    1
+   ],
+   "height": 3,
+   "themes": {
+    "pink": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_cargo_bay_pink.png",
+     "src_md5": "7dc8796721d704f147a40bd90e3fad63",
+     "width": 14
+    },
+    "standard": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_cargo_bay_standard.png",
+     "src_md5": "d1afec76ce3fb63783effa5b9175c20c",
+     "width": 14
+    },
+    "syndicate": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_cargo_bay_syndicate.png",
+     "src_md5": "b6dc23118b07861a065dcf3f5c9414ef",
+     "width": 14
+    }
+   },
+   "width": 14
+  }
+ },
+ "tile_px": 32
+}

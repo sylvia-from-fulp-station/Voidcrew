@@ -1,0 +1,46 @@
+{
+ "hulls": {},
+ "modules": {
+  "hiryu_class_carrier/mining_hangar.dmm": {
+   "connector": [
+    1,
+    1
+   ],
+   "height": 3,
+   "themes": {
+    "pink": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_mining_hangar_pink.png",
+     "src_md5": "983ce51c608156b697389460865e707a",
+     "width": 14
+    },
+    "standard": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_mining_hangar_standard.png",
+     "src_md5": "f0d5bd5739acfe4e82d490a791cfed2c",
+     "width": 14
+    },
+    "syndicate": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 3,
+     "png": "hiryu_class_carrier_mining_hangar_syndicate.png",
+     "src_md5": "799948a6383f33d9d71a26cccb340547",
+     "width": 14
+    }
+   },
+   "width": 14
+  }
+ },
+ "tile_px": 32
+}

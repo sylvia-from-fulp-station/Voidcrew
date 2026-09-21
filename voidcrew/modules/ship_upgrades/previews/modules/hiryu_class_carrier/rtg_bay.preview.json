@@ -1,0 +1,46 @@
+{
+ "hulls": {},
+ "modules": {
+  "hiryu_class_carrier/rtg_bay.dmm": {
+   "connector": [
+    1,
+    1
+   ],
+   "height": 7,
+   "themes": {
+    "pink": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_rtg_bay_pink.png",
+     "src_md5": "fab0f82c05081238d357e6a4d4ca3fa3",
+     "width": 8
+    },
+    "standard": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_rtg_bay_standard.png",
+     "src_md5": "79981ba9735cf950c1baa1c88e06a074",
+     "width": 8
+    },
+    "syndicate": {
+     "connector": [
+      1,
+      1
+     ],
+     "height": 7,
+     "png": "hiryu_class_carrier_rtg_bay_syndicate.png",
+     "src_md5": "2f429fb669301943132f048c7b02e358",
+     "width": 8
+    }
+   },
+   "width": 8
+  }
+ },
+ "tile_px": 32
+}
