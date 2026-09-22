@@ -91,11 +91,13 @@
 	pixel_x = 0;
 	pixel_y = 9
 	},
+/obj/item/binoculars,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "wnG" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/machinery/computer/crew,
+/obj/item/folder/documents,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 

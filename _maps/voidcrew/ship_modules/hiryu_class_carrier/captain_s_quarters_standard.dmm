@@ -23,6 +23,7 @@
 "rbk" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/closet/secure_closet/captains,
+/obj/item/folder/documents,
 /turf/open/floor/wood,
 /area/template_noop)
 "rfX" = (
@@ -49,6 +50,7 @@
 "sxf" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
+/obj/item/binoculars,
 /turf/open/floor/wood,
 /area/template_noop)
 "vbd" = (

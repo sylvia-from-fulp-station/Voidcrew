@@ -21,6 +21,7 @@
 "gKa" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/machinery/computer/crew,
+/obj/item/folder/documents,
 /turf/open/floor/mineral/titanium,
 /area/template_noop)
 "ixv" = (
@@ -92,6 +93,7 @@
 	pixel_x = 0;
 	pixel_y = 9
 	},
+/obj/item/binoculars,
 /turf/open/floor/mineral/titanium,
 /area/template_noop)
 "xnv" = (

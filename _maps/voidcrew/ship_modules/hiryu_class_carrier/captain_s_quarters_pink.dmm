@@ -9,6 +9,7 @@
 "bUj" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/closet/secure_closet/captains,
+/obj/item/folder/documents,
 /turf/open/floor/wood/mahogany,
 /area/template_noop)
 "cjN" = (
@@ -63,6 +64,7 @@
 "uhQ" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
+/obj/item/binoculars,
 /turf/open/floor/wood/mahogany,
 /area/template_noop)
 "vTp" = (

@@ -2,6 +2,7 @@
 "eVG" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/closet/secure_closet/captains,
+/obj/item/folder/syndicate/red,
 /turf/open/floor/wood/ebony,
 /area/template_noop)
 "hOd" = (
@@ -20,6 +21,7 @@
 "nTz" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
+/obj/item/binoculars,
 /turf/open/floor/wood/ebony,
 /area/template_noop)
 "oFg" = (

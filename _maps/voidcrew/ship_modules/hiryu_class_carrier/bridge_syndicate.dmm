@@ -22,6 +22,7 @@
 "lFD" = (
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/machinery/computer/crew,
+/obj/item/folder/syndicate/red,
 /turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "mam" = (
@@ -60,6 +61,7 @@
 	pixel_y = 9
 	},
 /obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/binoculars,
 /turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "ozd" = (
