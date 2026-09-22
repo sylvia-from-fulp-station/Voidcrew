@@ -440,6 +440,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
+/obj/machinery/holopad,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
 "sQW" = (
