@@ -15,9 +15,11 @@
 /obj/item/food/meat/slab/grassfed,
 /obj/item/food/meat/slab/grassfed,
 /obj/item/food/meat/slab/grassfed,
+/obj/effect/turf_decal/siding/wideplating,
 /turf/template_noop,
 /area/template_noop)
 "cQT" = (
+/obj/effect/turf_decal/siding/wideplating,
 /turf/open/floor/iron/kitchen/small,
 /area/template_noop)
 "dUC" = (
@@ -26,6 +28,10 @@
 /area/template_noop)
 "dZD" = (
 /obj/structure/flora/bush/fullgrass,
+/obj/structure/chair/plastic{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wideplating,
 /turf/open/floor/grass,
 /area/template_noop)
 "gMF" = (
@@ -44,10 +50,15 @@
 	pixel_y = -2
 	},
 /obj/item/clothing/suit/apron/chef,
+/obj/effect/turf_decal/siding/wideplating,
 /turf/open/floor/iron/kitchen/small,
 /area/template_noop)
 "gWN" = (
 /obj/structure/flora/ausbushes/fullgrass,
+/obj/structure/chair/plastic{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wideplating,
 /turf/open/floor/grass,
 /area/template_noop)
 "jPb" = (
@@ -58,24 +69,20 @@
 /turf/template_noop,
 /area/template_noop)
 "pIO" = (
-/obj/structure/flora/ausbushes/grassybush,
+/obj/structure/table/rolling,
+/obj/structure/fluff/beach_umbrella,
+/obj/effect/turf_decal/siding/wideplating,
 /turf/open/floor/grass,
 /area/template_noop)
 "snZ" = (
 /turf/open/floor/asphalt,
 /area/template_noop)
 "tdP" = (
-/obj/structure/chair/plastic{
-	dir = 8
-	},
-/obj/structure/flora/ausbushes/fullgrass,
+/obj/machinery/vending/hydronutrients,
 /turf/open/floor/grass,
 /area/template_noop)
 "tUh" = (
-/obj/structure/chair/plastic{
-	dir = 4
-	},
-/obj/structure/flora/bush/fullgrass,
+/obj/machinery/vending/hydroseeds,
 /turf/open/floor/grass,
 /area/template_noop)
 "tZJ" = (
@@ -84,12 +91,11 @@
 /turf/open/floor/asphalt,
 /area/template_noop)
 "uSH" = (
-/obj/machinery/suit_storage_unit,
+/obj/machinery/suit_storage_unit/standard_unit,
 /turf/open/floor/asphalt,
 /area/template_noop)
 "wTu" = (
-/obj/structure/table/rolling,
-/obj/structure/fluff/beach_umbrella,
+/obj/machinery/hydroponics,
 /turf/open/floor/grass,
 /area/template_noop)
 "xnU" = (

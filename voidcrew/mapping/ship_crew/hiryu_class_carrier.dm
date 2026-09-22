@@ -368,6 +368,19 @@
 	neck = null
 	shoes = /obj/item/clothing/shoes/laceup
 
+/datum/outfit/job/workshop_hiryu_class_carrier_job_25
+	parent_type = /datum/outfit/job/captain/syndicate
+	name = "Hiryu-class Carrier — Captain"
+	suit_store = null
+	l_pocket = null
+	r_pocket = null
+
+/datum/outfit/job/workshop_hiryu_class_carrier_job_25/pre_equip(mob/living/carbon/human/H, visuals_only = FALSE)
+	. = ..()
+	suit_store = null
+	l_pocket = null
+	r_pocket = null
+
 /datum/outfit/job/workshop_hiryu_class_carrier_job_27
 	parent_type = /datum/outfit/job/assistant/syndicate
 	name = "Hiryu-class Carrier — Deckhand"

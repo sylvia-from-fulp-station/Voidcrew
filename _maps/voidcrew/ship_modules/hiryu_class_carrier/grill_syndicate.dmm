@@ -1,10 +1,11 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "axU" = (
-/obj/machinery/suit_storage_unit,
+/obj/machinery/suit_storage_unit/standard_unit,
 /turf/open/floor/asphalt,
 /area/template_noop)
 "aPc" = (
 /obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/iron/kitchen/small,
 /area/template_noop)
 "eyd" = (
@@ -23,15 +24,12 @@
 /turf/template_noop,
 /area/template_noop)
 "jzL" = (
-/obj/structure/chair/plastic{
-	dir = 4
-	},
 /obj/structure/flora/ausbushes/brflowers,
+/obj/machinery/vending/hydroseeds,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "nsZ" = (
-/obj/structure/table/rolling,
-/obj/structure/fluff/beach_umbrella/syndi,
+/obj/machinery/hydroponics,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "nxf" = (
@@ -50,10 +48,13 @@
 	pixel_y = -2
 	},
 /obj/item/clothing/suit/apron/chef,
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/iron/kitchen/small,
 /area/template_noop)
 "nQa" = (
-/obj/structure/flora/ausbushes/brflowers,
+/obj/structure/table/rolling,
+/obj/structure/fluff/beach_umbrella/syndi,
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "pNw" = (
@@ -61,14 +62,16 @@
 /turf/template_noop,
 /area/template_noop)
 "qra" = (
-/obj/structure/chair/plastic{
-	dir = 8
-	},
 /obj/structure/flora/ausbushes/brflowers,
+/obj/machinery/vending/hydronutrients,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "qLm" = (
 /obj/structure/flora/ausbushes/fullgrass,
+/obj/structure/chair/plastic{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "rFa" = (
@@ -85,10 +88,15 @@
 /area/template_noop)
 "wyz" = (
 /obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/iron/kitchen/small,
 /area/template_noop)
 "wWg" = (
 /obj/structure/flora/bush/fullgrass,
+/obj/structure/chair/plastic{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/grass/fairy,
 /area/template_noop)
 "xMb" = (
@@ -103,6 +111,7 @@
 /obj/item/food/meat/slab/grassfed,
 /obj/item/food/meat/slab/grassfed,
 /obj/item/food/meat/slab/grassfed,
+/obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/template_noop,
 /area/template_noop)
 

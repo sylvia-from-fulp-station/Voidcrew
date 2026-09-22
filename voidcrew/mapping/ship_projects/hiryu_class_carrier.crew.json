@@ -145,12 +145,16 @@
       {
         "ID": "job_25",
         "Name": "Captain",
-        "Outfit": "/datum/outfit/job/captain/syndicate",
-        "BaseOutfit": "",
+        "Outfit": "/datum/outfit/job/workshop_hiryu_class_carrier_job_25",
+        "BaseOutfit": "/datum/outfit/job/captain/syndicate",
         "Category": "Command",
         "Slots": 1,
         "Officer": true,
-        "Equipment": null,
+        "Equipment": {
+          "l_pocket": "",
+          "r_pocket": "",
+          "suit_store": ""
+        },
         "Backpack": null,
         "Belt": null,
         "Extra": null

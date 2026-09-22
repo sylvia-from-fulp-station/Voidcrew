@@ -38,6 +38,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/light/floor,
+/obj/structure/reagent_dispensers/fueltank,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "bTa" = (
@@ -150,6 +151,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "hps" = (
 /obj/machinery/firealarm/directional/east,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "hqb" = (
@@ -164,7 +166,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
 "hWa" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
@@ -179,9 +180,14 @@
 /turf/closed/wall/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "hYR" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
-/turf/open/floor/plating,
-/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
 "ikJ" = (
 /obj/machinery/porta_turret/ship_defense{
 	dir = 4
@@ -206,6 +212,7 @@
 	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "iKu" = (
@@ -238,6 +245,12 @@
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
 "ksJ" = (
 /turf/open/floor/plating,
+/area/shuttle/voidcrew/hiryu_class_carrier)
+"ktz" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "lwS" = (
 /obj/machinery/power/terminal,
@@ -322,12 +335,20 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "npz" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "nrh" = (
 /turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/voidcrew/hiryu_class_carrier)
+"nPp" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/trimline/blue/filled/warning,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
+"nUT" = (
+/obj/machinery/light/floor,
+/turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "nYs" = (
 /obj/structure/cable,
@@ -339,9 +360,14 @@
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "oIw" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
-/turf/open/floor/plating,
-/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
 "oLV" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
@@ -352,15 +378,27 @@
 /obj/machinery/porta_turret/ship_defense,
 /turf/closed/wall/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
+"pfa" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
 "puo" = (
 /obj/machinery/firealarm/directional/west,
 /obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "pGU" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
 /turf/open/floor/plating,
-/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
+/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
 "pIO" = (
 /obj/effect/turf_decal/trimline/dark_blue/filled/warning{
 	dir = 4
@@ -409,6 +447,7 @@
 "qBV" = (
 /obj/structure/cable,
 /obj/machinery/firealarm/directional/west,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
 "qGV" = (
@@ -425,8 +464,11 @@
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "qPP" = (
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
-	dir = 1
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
 	},
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
@@ -434,6 +476,13 @@
 /obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
+"rPv" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/effect/turf_decal/trimline/yellow/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
 "rSb" = (
 /obj/machinery/atmospherics/components/tank/plasma{
 	dir = 4
@@ -472,6 +521,9 @@
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
 "skb" = (
 /obj/machinery/light/floor,
+/obj/effect/turf_decal/trimline/blue/filled/warning{
+	dir = 1
+	},
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "srS" = (
@@ -480,6 +532,7 @@
 	dir = 8
 	},
 /obj/machinery/firealarm/directional/east,
+/obj/structure/closet/firecloset,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "syR" = (
@@ -499,6 +552,9 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "sTo" = (
 /obj/machinery/firealarm/directional/west,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
 "tgd" = (
@@ -520,11 +576,14 @@
 /turf/template_noop,
 /area/template_noop)
 "tDc" = (
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
-	dir = 1
+/obj/structure/cable,
+/obj/machinery/power/terminal{
+	dir = 8
 	},
-/turf/open/floor/mineral/plastitanium,
-/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
+/obj/machinery/firealarm/directional/east,
+/obj/structure/closet/emcloset,
+/turf/open/floor/plating,
+/area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "tHb" = (
 /obj/machinery/light/floor,
 /obj/structure/cable,
@@ -599,13 +658,22 @@
 /obj/machinery/power/apc/auto_name/directional/west,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
+"wso" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/trimline/yellow/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
+"wHW" = (
+/obj/machinery/light/floor,
+/obj/effect/turf_decal/trimline/yellow/filled/warning,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
 "wMJ" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "xqK" = (
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
-	dir = 1
-	},
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
 "xvo" = (
@@ -637,6 +705,11 @@
 /obj/machinery/door/airlock/survival_pod/glass,
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
+"yhY" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/effect/turf_decal/trimline/yellow/filled/warning,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/voidcrew/hiryu_class_carrier)
 
 (1,1,1) = {"
 tnK
@@ -783,7 +856,7 @@ tnK
 tnK
 tnK
 dlO
-srS
+tDc
 tHb
 dip
 uZc
@@ -847,7 +920,7 @@ ksJ
 nrh
 kif
 hqb
-sBR
+oIw
 hqb
 kif
 nrh
@@ -866,7 +939,7 @@ ksJ
 ksJ
 fmY
 iXe
-pGU
+hqb
 uzT
 xqK
 iXe
@@ -886,9 +959,9 @@ ksJ
 ksJ
 qGV
 kif
-hqb
-sBR
-hqb
+xqK
+hYR
+xqK
 kif
 qGV
 aEK
@@ -906,9 +979,9 @@ dlO
 wMJ
 axV
 kif
-hqb
+xqK
 sBR
-hqb
+xqK
 kif
 tgd
 wMJ
@@ -922,14 +995,14 @@ tnK
 tnK
 dlO
 ksJ
-ksJ
+nUT
 pLw
 aEK
-skb
+wHW
 kif
 xxV
 kif
-skb
+wso
 aEK
 pLw
 puo
@@ -945,11 +1018,11 @@ ksJ
 npz
 ngX
 mXf
-mXf
+yhY
 ePi
 mYy
 gjG
-mXf
+rPv
 mXf
 hiW
 oLV
@@ -965,11 +1038,11 @@ ksJ
 hWa
 uHP
 sSy
-sSy
+ktz
 whz
 jnJ
 gQO
-vTB
+pfa
 vTB
 fXj
 qbi
@@ -985,7 +1058,7 @@ ksJ
 hps
 pLw
 vOT
-skb
+nPp
 mJc
 tjv
 mJc
@@ -1027,7 +1100,7 @@ ksJ
 pIO
 mJc
 qwI
-uEc
+pGU
 qwI
 mJc
 pIO
@@ -1046,9 +1119,9 @@ ksJ
 ksJ
 rXV
 seW
-oIw
+qwI
 hsS
-qPP
+qwI
 seW
 rXV
 aEK
@@ -1067,7 +1140,7 @@ ksJ
 nrh
 mJc
 qwI
-uEc
+qPP
 qwI
 mJc
 nrh
@@ -1146,9 +1219,9 @@ tnK
 rut
 ebW
 ebW
-hYR
+ebW
 tOt
-tDc
+nbv
 nbv
 nbv
 rut

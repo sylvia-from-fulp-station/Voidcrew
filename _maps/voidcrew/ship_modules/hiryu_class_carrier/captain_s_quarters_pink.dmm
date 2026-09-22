@@ -74,8 +74,9 @@
 "uhQ" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
-/obj/item/binoculars,
 /obj/structure/mirror/directional/east,
+/obj/item/toy/captainsaid,
+/obj/item/binoculars,
 /turf/open/floor/wood/mahogany,
 /area/template_noop)
 "vTp" = (
@@ -95,6 +96,9 @@
 "xfu" = (
 /obj/structure/displaycase/captain{
 	start_showpiece_type = /obj/item/katana
+	},
+/obj/structure/plaque/static_plaque/golden/captain{
+	pixel_y = 29
 	},
 /turf/open/floor/wood/mahogany,
 /area/template_noop)

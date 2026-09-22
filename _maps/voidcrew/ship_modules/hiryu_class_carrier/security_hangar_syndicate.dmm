@@ -7,6 +7,8 @@
 /obj/structure/platform/plastitanium,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/item/clothing/head/utility/welding,
+/obj/item/storage/toolbox/syndicate,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "bSL" = (
@@ -41,14 +43,12 @@
 /area/template_noop)
 "kJm" = (
 /obj/modular_map_connector,
-/obj/structure/table/reinforced,
 /obj/item/storage/bag/ore,
 /obj/item/storage/bag/ore,
 /obj/item/storage/bag/ore,
 /obj/item/pickaxe/rusted,
 /obj/item/pickaxe/rusted,
 /obj/item/pickaxe/rusted,
-/obj/structure/table/reinforced/plasmarglass,
 /obj/structure/table/reinforced/plastitaniumglass,
 /obj/machinery/button/door/directional/north{
 	name = "Mech Bay Shutters";
@@ -76,7 +76,6 @@
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "pcC" = (
-/obj/structure/table/reinforced,
 /obj/structure/table/reinforced/plastitaniumglass,
 /obj/machinery/button/door/directional/north{
 	name = "Mech Bay Shutters";

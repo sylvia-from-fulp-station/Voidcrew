@@ -78,6 +78,7 @@
 /area/template_noop)
 "vyd" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
+/obj/structure/sign/warning/cold_temp/directional/west,
 /turf/open/floor/iron/freezer/airless,
 /area/template_noop)
 "wsY" = (

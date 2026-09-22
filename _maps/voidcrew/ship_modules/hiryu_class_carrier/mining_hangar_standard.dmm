@@ -19,7 +19,10 @@
 /turf/open/floor/mineral/titanium/tiled,
 /area/template_noop)
 "duc" = (
-/obj/machinery/mineral/ore_redemption,
+/obj/machinery/mineral/ore_redemption{
+	input_dir = 2;
+	output_dir = 1
+	},
 /turf/open/floor/mineral/titanium/tiled,
 /area/template_noop)
 "ege" = (
@@ -45,6 +48,8 @@
 /obj/structure/platform/iron,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/effect/decal/cleanable/dirt/dust,
+/obj/item/clothing/head/utility/welding,
+/obj/item/storage/toolbox/mechanical/old,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "lhM" = (
@@ -74,16 +79,7 @@
 /turf/open/floor/mineral/titanium/tiled,
 /area/template_noop)
 "sYR" = (
-/obj/structure/rack,
-/obj/item/storage/bag/ore,
-/obj/item/storage/bag/ore,
-/obj/item/storage/bag/ore,
-/obj/item/pickaxe/rusted,
-/obj/item/pickaxe/rusted,
-/obj/item/pickaxe/rusted,
-/obj/item/t_scanner/adv_mining_scanner/lesser,
-/obj/item/t_scanner/adv_mining_scanner/lesser,
-/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/structure/ore_box,
 /turf/open/floor/mineral/titanium/tiled,
 /area/template_noop)
 "tzO" = (
@@ -98,8 +94,16 @@
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "wgG" = (
+/obj/item/storage/bag/ore,
+/obj/item/storage/bag/ore,
+/obj/item/storage/bag/ore,
+/obj/item/pickaxe/rusted,
+/obj/item/pickaxe/rusted,
+/obj/item/pickaxe/rusted,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
 /obj/structure/platform/iron,
-/obj/structure/ore_box,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "xNw" = (
@@ -108,6 +112,7 @@
 /obj/item/stack/cable_coil,
 /obj/effect/decal/cleanable/cobweb,
 /obj/effect/decal/cleanable/dirt/dust,
+/obj/item/crowbar,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 

@@ -57,6 +57,12 @@
 /obj/structure/closet/secure_closet/medical3,
 /turf/open/floor/mineral/titanium/blue,
 /area/template_noop)
+"qiS" = (
+/obj/structure/bed/medical{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/template_noop)
 "qKq" = (
 /obj/machinery/iv_drip,
 /turf/open/floor/mineral/titanium/blue,
@@ -102,7 +108,7 @@ uDY
 (5,1,1) = {"
 xtC
 nkK
-nkK
+qiS
 "}
 (6,1,1) = {"
 qKq

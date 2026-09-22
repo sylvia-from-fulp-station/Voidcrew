@@ -87,6 +87,8 @@
 /obj/structure/platform/titanium,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/item/clothing/head/utility/welding,
+/obj/item/storage/toolbox/mechanical/old,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "tDW" = (

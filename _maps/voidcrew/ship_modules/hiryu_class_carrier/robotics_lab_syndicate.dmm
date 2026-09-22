@@ -32,6 +32,11 @@
 	pixel_x = -3;
 	pixel_y = 2
 	},
+/obj/item/assembly/flash,
+/obj/item/assembly/flash,
+/obj/item/assembly/prox_sensor,
+/obj/item/storage/medkit,
+/obj/item/assembly/prox_sensor,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "llD" = (

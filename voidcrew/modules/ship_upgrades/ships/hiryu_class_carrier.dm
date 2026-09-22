@@ -11,7 +11,7 @@
 
 /datum/ship_theme/hiryu_class_carrier_syndicate
 	part_cost = list()
-	job_slots = list(list(name = "Captain", officer = TRUE, outfit = /datum/outfit/job/captain/syndicate, category = "Command", slots = 1), list(name = "Ship Engineer", officer = FALSE, outfit = /datum/outfit/job/engineer/syndicate, category = "Engineering", slots = 1), list(name = "Deckhand", officer = FALSE, outfit = /datum/outfit/job/workshop_hiryu_class_carrier_job_27, category = "Assistant", slots = 3))
+	job_slots = list(list(name = "Captain", officer = TRUE, outfit = /datum/outfit/job/workshop_hiryu_class_carrier_job_25, category = "Command", slots = 1), list(name = "Ship Engineer", officer = FALSE, outfit = /datum/outfit/job/engineer/syndicate, category = "Engineering", slots = 1), list(name = "Deckhand", officer = FALSE, outfit = /datum/outfit/job/workshop_hiryu_class_carrier_job_27, category = "Assistant", slots = 3))
 	id = "syndicate"
 	name = "Plastitanium Hull"
 	for_ship = /datum/map_template/shuttle/voidcrew/hiryu_class_carrier
