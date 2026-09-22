@@ -401,10 +401,6 @@
 /obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
-"pIH" = (
-/obj/item/flashlight/lantern,
-/turf/open/floor/plating,
-/area/shuttle/voidcrew/hiryu_class_carrier)
 "pJI" = (
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_helm)
@@ -1031,7 +1027,7 @@ xtd
 aWh
 olE
 gHg
-pIH
+oxz
 xea
 cYC
 cYC

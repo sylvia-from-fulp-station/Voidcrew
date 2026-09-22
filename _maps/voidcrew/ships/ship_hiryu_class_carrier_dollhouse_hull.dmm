@@ -137,9 +137,6 @@
 "hpC" = (
 /turf/closed/wall/mineral/titanium/dollhouse,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
-"hqq" = (
-/turf/open/floor/grass/dollhouse,
-/area/shuttle/voidcrew/hiryu_class_carrier)
 "hAO" = (
 /obj/machinery/porta_turret/ship_defense{
 	dir = 1
@@ -174,6 +171,10 @@
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
+"iua" = (
+/obj/machinery/light/floor,
+/turf/open/floor/plating,
+/area/shuttle/voidcrew/hiryu_class_carrier)
 "iQH" = (
 /obj/machinery/porta_turret/ship_defense{
 	dir = 6
@@ -858,8 +859,8 @@ rAN
 oSs
 ybB
 eQk
-ukb
-ukb
+oid
+oid
 vQg
 qkk
 qkk
@@ -878,8 +879,8 @@ ksG
 oSs
 hpC
 ukb
-ukb
-ukb
+oid
+oid
 vQg
 qkk
 qkk
@@ -909,7 +910,7 @@ qkk
 qkk
 aeC
 oid
-oid
+iua
 vQg
 gAh
 kkg
@@ -1009,8 +1010,8 @@ qkk
 qkk
 qkk
 aeC
-hqq
-hqq
+oid
+oid
 ukb
 pTt
 psS
@@ -1018,8 +1019,8 @@ trM
 psS
 pTt
 ukb
-ukb
-ukb
+oid
+oid
 vQg
 qkk
 qkk
@@ -1029,8 +1030,8 @@ qkk
 qkk
 qkk
 aeC
-hqq
-hqq
+oid
+oid
 eQk
 loH
 psS
@@ -1038,8 +1039,8 @@ fpZ
 psS
 loH
 eQk
-ukb
-ukb
+oid
+oid
 vQg
 qkk
 qkk
@@ -1049,8 +1050,8 @@ qkk
 qkk
 qkk
 aeC
-hqq
-hqq
+oid
+oid
 lcR
 pTt
 psS

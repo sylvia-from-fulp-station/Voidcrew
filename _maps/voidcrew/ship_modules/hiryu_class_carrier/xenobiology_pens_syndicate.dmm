@@ -5,12 +5,12 @@
 "auU" = (
 /mob/living/basic/slime,
 /obj/machinery/camera/autoname/directional/east,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "aSI" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/west,
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "bpn" = (
 /obj/machinery/reagentgrinder,
@@ -25,20 +25,16 @@
 /area/template_noop)
 "eiu" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/east,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "fGQ" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/west,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "fVS" = (
 /obj/structure/bed,
 /obj/item/bedsheet/syndie,
 /turf/open/floor/mineral/plastitanium,
-/area/template_noop)
-"kcu" = (
-/obj/structure/window/reinforced/plasma/spawner/directional/north,
-/turf/template_noop,
 /area/template_noop)
 "npO" = (
 /obj/machinery/computer/cryopod{
@@ -66,7 +62,7 @@
 "uJp" = (
 /mob/living/basic/slime,
 /obj/machinery/camera/autoname/directional/west,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "vyd" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
@@ -77,6 +73,10 @@
 /obj/machinery/processor/slime,
 /obj/structure/window/reinforced/plasma/spawner/directional/south,
 /turf/open/floor/mineral/plastitanium/red,
+/area/template_noop)
+"vVV" = (
+/obj/structure/window/reinforced/plasma/spawner/directional/north,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "wsY" = (
 /obj/structure/table/reinforced,
@@ -104,7 +104,7 @@
 "yeM" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/east,
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
-/turf/template_noop,
+/turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 
 (1,1,1) = {"
@@ -123,7 +123,7 @@ fGQ
 asf
 "}
 (4,1,1) = {"
-kcu
+vVV
 auU
 asf
 "}
@@ -158,7 +158,7 @@ asf
 asf
 "}
 (11,1,1) = {"
-kcu
+vVV
 uJp
 asf
 "}
