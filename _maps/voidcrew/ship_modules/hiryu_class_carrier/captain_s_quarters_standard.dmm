@@ -3,6 +3,9 @@
 /obj/structure/chair/comfy/shuttle{
 	dir = 4
 	},
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
 /turf/open/floor/carpet/blue,
 /area/template_noop)
 "jJY" = (
@@ -12,6 +15,9 @@
 "mDC" = (
 /mob/living/basic/pet/fox/renault,
 /obj/structure/bed/dogbed/renault,
+/obj/effect/turf_decal/siding/dark_blue/inner_corner{
+	dir = 8
+	},
 /turf/open/floor/carpet/blue,
 /area/template_noop)
 "qNH" = (
@@ -45,12 +51,14 @@
 /obj/machinery/computer/bank_machine{
 	dir = 8
 	},
+/obj/effect/turf_decal/siding/dark_blue,
 /turf/open/floor/carpet/blue,
 /area/template_noop)
 "sxf" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
 /obj/item/binoculars,
+/obj/structure/mirror/directional/east,
 /turf/open/floor/wood,
 /area/template_noop)
 "vbd" = (
@@ -62,12 +70,18 @@
 /area/template_noop)
 "vji" = (
 /obj/machinery/mission_pad,
+/obj/effect/turf_decal/siding/dark_blue/inner_corner{
+	dir = 1
+	},
 /turf/open/floor/carpet/blue,
 /area/template_noop)
 "vmU" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/machinery/computer/mission_board{
 	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
 	},
 /turf/open/floor/carpet/blue,
 /area/template_noop)

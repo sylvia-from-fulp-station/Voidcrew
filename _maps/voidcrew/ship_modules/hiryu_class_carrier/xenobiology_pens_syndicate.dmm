@@ -4,6 +4,7 @@
 /area/template_noop)
 "auU" = (
 /mob/living/basic/slime,
+/obj/machinery/camera/autoname/directional/east,
 /turf/template_noop,
 /area/template_noop)
 "aSI" = (
@@ -61,6 +62,11 @@
 "tVY" = (
 /obj/machinery/smartfridge/extract,
 /turf/open/floor/mineral/plastitanium/red,
+/area/template_noop)
+"uJp" = (
+/mob/living/basic/slime,
+/obj/machinery/camera/autoname/directional/west,
+/turf/template_noop,
 /area/template_noop)
 "vyd" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
@@ -153,7 +159,7 @@ asf
 "}
 (11,1,1) = {"
 kcu
-auU
+uJp
 asf
 "}
 (12,1,1) = {"

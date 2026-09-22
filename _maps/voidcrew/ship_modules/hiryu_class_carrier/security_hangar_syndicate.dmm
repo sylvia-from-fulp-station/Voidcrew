@@ -5,6 +5,8 @@
 "aTI" = (
 /obj/structure/platform/iron,
 /obj/structure/platform/plastitanium,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "bSL" = (
@@ -17,12 +19,15 @@
 /obj/structure/platform/iron,
 /obj/structure/platform/plastitanium,
 /obj/structure/mecha_wreckage/ripley,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "fez" = (
 /obj/structure/platform/iron,
 /obj/structure/platform/plastitanium,
 /obj/structure/ore_box,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "hOr" = (
@@ -93,6 +98,7 @@
 /obj/machinery/door/poddoor/shutters/window{
 	id = "hiryu_west"
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/mineral/plastitanium,
 /area/template_noop)
 "tjn" = (

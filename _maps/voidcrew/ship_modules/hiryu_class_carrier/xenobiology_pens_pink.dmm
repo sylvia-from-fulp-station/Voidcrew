@@ -5,6 +5,7 @@
 "auU" = (
 /mob/living/basic/slime,
 /obj/structure/flora/ausbushes/lavendergrass,
+/obj/machinery/camera/autoname/directional/east,
 /turf/open/floor/grass/dollhouse,
 /area/template_noop)
 "aBe" = (
@@ -55,6 +56,12 @@
 "nuC" = (
 /obj/structure/window/reinforced/plasma/spawner/directional/north,
 /obj/structure/flora/ausbushes/ppflowers,
+/turf/open/floor/grass/dollhouse,
+/area/template_noop)
+"oLf" = (
+/mob/living/basic/slime,
+/obj/structure/flora/ausbushes/lavendergrass,
+/obj/machinery/camera/autoname/directional/west,
 /turf/open/floor/grass/dollhouse,
 /area/template_noop)
 "qnn" = (
@@ -168,7 +175,7 @@ asf
 "}
 (11,1,1) = {"
 nuC
-auU
+oLf
 asf
 "}
 (12,1,1) = {"

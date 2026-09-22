@@ -139,7 +139,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "gHg" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
@@ -198,7 +197,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "hPx" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
 	},
@@ -233,6 +231,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engineering)
 "iqs" = (
 /obj/machinery/firealarm/directional/west,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "jjL" = (
@@ -370,6 +369,7 @@
 /obj/machinery/cryopod,
 /obj/item/crowbar/large/emergency,
 /obj/item/flashlight/lantern,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "pIH" = (
@@ -445,6 +445,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "scc" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/sign/departments/engineering/directional/west,
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "siz" = (
@@ -575,10 +576,12 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "vNW" = (
-/obj/machinery/door/airlock/titanium,
 /obj/docking_port/mobile/voidcrew/hiryu_class_carrier{
-	dir = 2
+	dir = 2;
+	port_direction = 1;
+	preferred_direction = 1
 	},
+/obj/machinery/door/airlock/titanium,
 /obj/structure/fans/tiny,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)

@@ -6,6 +6,8 @@
 "cYP" = (
 /obj/structure/platform/titanium,
 /obj/structure/ore_box,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "fai" = (
@@ -19,6 +21,7 @@
 "gUv" = (
 /obj/structure/platform/titanium,
 /obj/structure/mecha_wreckage/ripley,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "hef" = (
@@ -52,6 +55,7 @@
 /obj/machinery/door/poddoor/shutters/window{
 	id = "hiryu_west"
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "mWr" = (
@@ -81,6 +85,8 @@
 /area/template_noop)
 "qAr" = (
 /obj/structure/platform/titanium,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "tDW" = (

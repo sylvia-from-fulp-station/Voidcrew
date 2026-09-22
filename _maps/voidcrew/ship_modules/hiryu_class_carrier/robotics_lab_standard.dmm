@@ -38,6 +38,7 @@
 /area/template_noop)
 "mWV" = (
 /obj/modular_map_connector,
+/obj/structure/sign/departments/science/directional/east,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "rye" = (
@@ -54,7 +55,7 @@
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "tUu" = (
-/obj/effect/spawner/surgery_tray/full/morgue,
+/obj/effect/spawner/surgery_tray/full/morgue/deployed,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "wbc" = (

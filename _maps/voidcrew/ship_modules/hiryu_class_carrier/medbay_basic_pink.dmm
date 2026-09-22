@@ -27,6 +27,7 @@
 /area/template_noop)
 "ioQ" = (
 /obj/modular_map_connector,
+/obj/structure/sign/departments/med_alt/directional/east,
 /turf/open/floor/mineral/titanium/blue,
 /area/template_noop)
 "ogn" = (

@@ -10,7 +10,7 @@
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "dne" = (
-/obj/effect/spawner/surgery_tray/full/morgue,
+/obj/effect/spawner/surgery_tray/full/morgue/deployed,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "eSa" = (
@@ -36,6 +36,7 @@
 /area/template_noop)
 "llD" = (
 /obj/modular_map_connector,
+/obj/structure/sign/departments/science/directional/east,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "niz" = (

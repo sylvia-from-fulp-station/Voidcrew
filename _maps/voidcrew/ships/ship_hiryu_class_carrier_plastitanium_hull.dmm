@@ -121,6 +121,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "gjG" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/sign/departments/engineering/directional/west,
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "gAx" = (
@@ -251,6 +252,7 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /obj/item/flashlight/lantern/syndicate,
 /obj/item/crowbar/large/emergency,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "lZv" = (
@@ -341,7 +343,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
 "oLV" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
 	},
@@ -353,6 +354,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "puo" = (
 /obj/machinery/firealarm/directional/west,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "pGU" = (
@@ -376,7 +378,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "qbi" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
@@ -395,7 +396,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "qvR" = (
-/obj/machinery/door/airlock/public/glass,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -444,7 +444,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "rTZ" = (
-/obj/machinery/door/airlock/public/glass,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -510,7 +509,6 @@
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "tjv" = (
-/obj/machinery/door/airlock/public/glass,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -619,7 +617,6 @@
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_engines)
 "xxV" = (
-/obj/machinery/door/airlock/public/glass,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,

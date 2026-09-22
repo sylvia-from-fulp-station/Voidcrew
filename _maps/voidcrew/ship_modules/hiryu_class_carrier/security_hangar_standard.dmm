@@ -9,6 +9,7 @@
 /obj/machinery/door/poddoor/shutters/window{
 	id = "hiryu_west"
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/mineral/titanium/tiled,
 /area/template_noop)
 "glG" = (
@@ -31,6 +32,7 @@
 "lQA" = (
 /obj/structure/platform/iron,
 /obj/structure/mecha_wreckage/ripley,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "mdV" = (
@@ -100,10 +102,14 @@
 "vfN" = (
 /obj/structure/platform/iron,
 /obj/structure/ore_box,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "wgL" = (
 /obj/structure/platform/iron,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/mineral/titanium/purple,
 /area/template_noop)
 "xMJ" = (

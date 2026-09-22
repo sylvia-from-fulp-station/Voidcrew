@@ -4,6 +4,7 @@
 /obj/machinery/computer/bank_machine{
 	dir = 8
 	},
+/obj/effect/turf_decal/siding/purple,
 /turf/open/floor/carpet/purple,
 /area/template_noop)
 "bUj" = (
@@ -14,6 +15,9 @@
 /area/template_noop)
 "cjN" = (
 /obj/machinery/mission_pad,
+/obj/effect/turf_decal/siding/purple/inner_corner{
+	dir = 1
+	},
 /turf/open/floor/carpet/purple,
 /area/template_noop)
 "gQm" = (
@@ -36,6 +40,9 @@
 "nCs" = (
 /mob/living/basic/pet/cat/runtime,
 /obj/structure/bed/dogbed/runtime,
+/obj/effect/turf_decal/siding/purple/inner_corner{
+	dir = 8
+	},
 /turf/open/floor/carpet/purple,
 /area/template_noop)
 "nXX" = (
@@ -59,18 +66,25 @@
 /obj/structure/chair/comfy/shuttle{
 	dir = 4
 	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
 /turf/open/floor/carpet/purple,
 /area/template_noop)
 "uhQ" = (
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/dresser,
 /obj/item/binoculars,
+/obj/structure/mirror/directional/east,
 /turf/open/floor/wood/mahogany,
 /area/template_noop)
 "vTp" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/machinery/computer/mission_board{
 	dir = 8
+	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
 	},
 /turf/open/floor/carpet/purple,
 /area/template_noop)

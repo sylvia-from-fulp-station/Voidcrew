@@ -1,6 +1,8 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aqw" = (
 /obj/structure/platform/titanium,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "coi" = (
@@ -23,6 +25,7 @@
 "hCY" = (
 /obj/structure/platform/titanium,
 /obj/structure/mecha_wreckage/ripley/paddy,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "hPu" = (
@@ -59,6 +62,7 @@
 /obj/machinery/door/poddoor/shutters/window{
 	id = "hiryu_east"
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 "qqR" = (
@@ -96,6 +100,14 @@
 	name = "Mech Bay Shutters";
 	id = "hiryu_east"
 	},
+/turf/open/floor/iron/dollhouse,
+/area/template_noop)
+"xRv" = (
+/obj/structure/platform/titanium,
+/obj/item/screwdriver,
+/obj/item/stack/cable_coil,
+/obj/effect/decal/cleanable/cobweb,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dollhouse,
 /area/template_noop)
 
@@ -151,7 +163,7 @@ rLS
 "}
 (11,1,1) = {"
 rLS
-aqw
+xRv
 pNJ
 "}
 (12,1,1) = {"

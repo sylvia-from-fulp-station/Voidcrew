@@ -63,6 +63,7 @@
 /area/template_noop)
 "tox" = (
 /obj/modular_map_connector,
+/obj/structure/sign/departments/med_alt/directional/east,
 /turf/open/floor/mineral/titanium/blue,
 /area/template_noop)
 "uDY" = (

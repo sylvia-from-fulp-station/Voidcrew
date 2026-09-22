@@ -28,6 +28,7 @@
 /obj/machinery/cryopod,
 /obj/item/crowbar/large/emergency,
 /obj/item/flashlight/lantern,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "cvk" = (
@@ -59,7 +60,6 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "dIl" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
 	},
@@ -221,6 +221,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "krU" = (
 /obj/machinery/firealarm/directional/west,
+/obj/machinery/light/floor,
 /turf/open/floor/plating,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "ksG" = (
@@ -268,7 +269,6 @@
 /turf/closed/wall/mineral/titanium/dollhouse/nodiagonal,
 /area/shuttle/voidcrew/hiryu_class_carrier/hiryu_class_medbay)
 "nqy" = (
-/obj/machinery/light/floor,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
@@ -451,6 +451,7 @@
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "sEP" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/sign/departments/engineering/directional/west,
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/voidcrew/hiryu_class_carrier)
 "sHi" = (
