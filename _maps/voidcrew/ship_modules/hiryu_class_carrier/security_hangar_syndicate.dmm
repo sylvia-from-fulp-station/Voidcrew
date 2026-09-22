@@ -72,18 +72,17 @@
 /area/template_noop)
 "pcC" = (
 /obj/structure/table/reinforced,
-/obj/item/inducer{
-	pixel_x = 0;
-	pixel_y = 10
-	},
-/obj/item/weldingtool/largetank{
-	pixel_x = 7;
-	pixel_y = -3
-	},
 /obj/structure/table/reinforced/plastitaniumglass,
 /obj/machinery/button/door/directional/north{
 	name = "Mech Bay Shutters";
 	id = "hiryu_east"
+	},
+/obj/item/inducer/syndicate{
+	pixel_y = 9
+	},
+/obj/item/weldingtool/largetank{
+	pixel_x = 7;
+	pixel_y = -3
 	},
 /turf/open/floor/circuit/red,
 /area/template_noop)
@@ -159,7 +158,7 @@ aCn
 (8,1,1) = {"
 aCn
 aCn
-aCn
+wnC
 "}
 (9,1,1) = {"
 xBl

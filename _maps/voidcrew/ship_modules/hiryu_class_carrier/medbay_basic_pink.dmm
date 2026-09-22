@@ -50,7 +50,6 @@
 /area/template_noop)
 "vUn" = (
 /obj/structure/window/reinforced/tinted/frosted/spawner/directional/south,
-/obj/structure/window/reinforced/tinted/frosted/spawner/directional/east,
 /obj/machinery/door/window/right{
 	dir = 1
 	},

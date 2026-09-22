@@ -163,3 +163,14 @@
 	map_file = "hiryu_class_carrier/bridge.dmm"
 	is_default = FALSE
 	desc = "A simple helm featuring multiple extra consoles and emergency supplies."
+
+/datum/ship_upgrade_module/hiryu_class_carrier_xenobiology_pens
+	part_cost = list()
+	id = "xenobiology_pens"
+	name = "Xenobiology pens"
+	slot = "Cryogenics"
+	for_ship = /datum/map_template/shuttle/voidcrew/hiryu_class_carrier
+	for_theme = list("standard", "syndicate", "pink")
+	map_file = "hiryu_class_carrier/xenobiology_pens.dmm"
+	is_default = FALSE
+	desc = "A xenobiology lab for your ship."

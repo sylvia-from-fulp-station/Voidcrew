@@ -23,7 +23,6 @@
 /area/template_noop)
 "gPt" = (
 /obj/structure/window/reinforced/tinted/frosted/spawner/directional/south,
-/obj/structure/window/reinforced/tinted/frosted/spawner/directional/east,
 /obj/machinery/door/window/right{
 	dir = 1
 	},

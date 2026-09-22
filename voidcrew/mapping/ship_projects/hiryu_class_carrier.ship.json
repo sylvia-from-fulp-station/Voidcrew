@@ -215,6 +215,19 @@
           "pink"
         ],
         "Default": false
+      },
+      {
+        "ID": "xenobiology_pens",
+        "Name": "Xenobiology pens",
+        "Slot": "Cryogenics",
+        "File": "hiryu_class_carrier/xenobiology_pens.dmm",
+        "Description": "A xenobiology lab for your ship.",
+        "Themes": [
+          "standard",
+          "syndicate",
+          "pink"
+        ],
+        "Default": false
       }
     ]
   },
@@ -229,6 +242,7 @@
     "module/robotics_lab": {},
     "module/rtg_bay": {},
     "module/security_hangar": {},
+    "module/xenobiology_pens": {},
     "ship": {},
     "theme/pink": {},
     "theme/syndicate": {}

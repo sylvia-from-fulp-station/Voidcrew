@@ -2,17 +2,17 @@
 "bny" = (
 /obj/modular_map_connector,
 /obj/structure/table/reinforced,
-/obj/item/inducer{
-	pixel_x = -1;
-	pixel_y = 10
+/obj/machinery/button/door/directional/north{
+	name = "Mech Bay Shutters";
+	id = "hiryu_west"
+	},
+/obj/item/inducer/syndicate{
+	pixel_x = 0;
+	pixel_y = 8
 	},
 /obj/item/weldingtool/largetank{
 	pixel_x = 5;
 	pixel_y = -2
-	},
-/obj/machinery/button/door/directional/north{
-	name = "Mech Bay Shutters";
-	id = "hiryu_west"
 	},
 /turf/open/floor/circuit/red,
 /area/template_noop)
@@ -139,7 +139,7 @@ tWj
 (8,1,1) = {"
 tWj
 tWj
-tWj
+tQB
 "}
 (9,1,1) = {"
 uDi

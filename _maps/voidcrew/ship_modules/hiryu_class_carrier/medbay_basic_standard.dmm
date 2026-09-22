@@ -1,7 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "eXb" = (
 /obj/structure/window/reinforced/tinted/frosted/spawner/directional/south,
-/obj/structure/window/reinforced/tinted/frosted/spawner/directional/east,
 /obj/machinery/door/window/right{
 	dir = 1
 	},
@@ -70,12 +69,6 @@
 /obj/machinery/iv_drip/saline,
 /turf/open/floor/mineral/titanium/blue,
 /area/template_noop)
-"vcj" = (
-/obj/structure/bed/medical{
-	dir = 1
-	},
-/turf/open/floor/mineral/titanium/blue,
-/area/template_noop)
 "wcC" = (
 /obj/effect/spawner/surgery_tray/full/deployed,
 /turf/open/floor/mineral/titanium/blue,
@@ -108,7 +101,7 @@ uDY
 (5,1,1) = {"
 xtC
 nkK
-vcj
+nkK
 "}
 (6,1,1) = {"
 qKq
