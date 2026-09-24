@@ -50,13 +50,13 @@
 /obj/item/pickaxe/rusted,
 /obj/item/pickaxe/rusted,
 /obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
+/obj/item/t_scanner/adv_mining_scanner/lesser,
 /obj/machinery/button/door/directional/north{
 	name = "Mech Bay Shutters";
-	id = "hiryu_east"
+	id = "hiryu_west"
 	},
-/obj/item/t_scanner/adv_mining_scanner/lesser,
-/obj/item/t_scanner/adv_mining_scanner/lesser,
-/obj/item/t_scanner/adv_mining_scanner/lesser,
 /turf/open/floor/circuit/red,
 /area/template_noop)
 "kQt" = (
