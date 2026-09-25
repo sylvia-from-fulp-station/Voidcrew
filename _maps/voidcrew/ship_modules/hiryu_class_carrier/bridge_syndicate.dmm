@@ -36,7 +36,6 @@
 	pixel_x = -6;
 	pixel_y = 3
 	},
-/obj/structure/table/reinforced,
 /obj/machinery/recharger{
 	pixel_x = 6;
 	pixel_y = 3
@@ -51,7 +50,6 @@
 /area/template_noop)
 "nFH" = (
 /obj/structure/window/reinforced/spawner/directional/south,
-/obj/structure/table/reinforced,
 /obj/item/storage/medkit/regular{
 	pixel_x = 0;
 	pixel_y = 3
